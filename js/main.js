@@ -55,12 +55,12 @@ if (tipoDeViaje == "1") {
 
 //Arrays//
 
-const Destinos = ["Bariloche, Puerto Iguazú, Jujuy, Mar del Plata"];
+const Destinos = ["Bariloche, puertoIguazú, Jujuy, marDelPlata"];
 const Categorias = [
-  { id: 1, categoria: "Treking" },
+  { id: 1, categoria: "treking" },
   { id: 2, categoria: "tirolesa" },
   { id: 3, categoria: "aerosilla" },
-  { id: 4, categoria: "visitas guiadas" },
+  { id: 4, categoria: "visitasGuiadas" },
 ];
 
 for (const categoria of Categorias) {
